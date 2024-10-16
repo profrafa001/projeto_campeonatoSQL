@@ -2,6 +2,31 @@
 <p align = "justify">Trabalho apresentado à professora Rafaela Pessin, da disciplina Banco de Dados da EEEFM Professor Joaquim Barbosa Quitiba, inclusa no Campeonato de SQL, uma estratégia envolvendo gamificação e protagonismo.
  Os alunos tiveram todos os conceitos de banco de dados, desde conceitos base até a modelagem de dados. Este trabalho tem o objetivo implementar uma banco de dados usando a Linguagem de Consulta Estruturada SQL.
 
+## Turmas Participantes
+* 2º IPI 01
+* 2º IPI 02
+* 2º RDC 01
+* 3º MSI 01
+ 
+## Fases do Campeonato
+### Fase 1: Competição por turmas
+* As turmas serão divididas em grupos de 5 a 6 alunos. 
+* Os grupos irão competir entre si.
+* Nesta etapa, estarão competindo 22 grupos (somatório dos grupos das 4 turmas).
+* Na Fase 1 da competição serão consideradas as seguintes etapas do trabalhos: ETAPA 1 - Criação do Banco de Dados, ETAPA 2 - Documentação do Banco de Dados e ETAPA 3 - Refinamento.
+* Essas etapas serão realizadas durante as aulas de Banco de Dados, nas aulas práticas de Laboratório de Informática.
+* Serão considerados alguns critérios de avaliação como: cumprimento de todas as etapas completas, qualidade de implementação e documentação e participação dos integrantes.
+* Cada turma terá os 1ºs, 2ºs e 3ºs lugares ganhadores, com direito a premiação (medalha) para todos os integrantes dos grupos.
+* Os 1ºs lugares de cada turma, vai para a etapa seguinte.
+
+### Fase 2: Competição interclasse
+* Nesta etapa, irão participar apenas 4 grupos, ou seja, os 1ºs colocados de cada turma da Fase 1 da competição.
+* Na Fase 2 da competição será considerada a seguinte etapa do trabalho: ETAPA 4 - Consulta ao Banco de Dados.
+* Essa etapa será em um dia e horário atípico, envolvendo todos os quatro grupos no Laboratório de Informática.
+* Nesta fase do campeonato, será dado um tempo e um desafio para que os grupos solucionem.
+* Serão considerados alguns critérios de avaliação como: cumprimento da etapa completa, utilização do tempo disponibilizado, qualidade de implementação e participação dos integrantes.
+* A competição terá os 1ºs, 2ºs e 3ºs lugeres (com premiação a definir).
+
 # Integrantes do Grupo
 1) 
 2) 
