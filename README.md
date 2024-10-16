@@ -9,8 +9,6 @@
 4) 
 5) 
 
-# Modelo Conceitual (DER)
-
 # Modelo Lógico
 * Abaixo você pode visualizar o modelo lógico do trabalho.
   
