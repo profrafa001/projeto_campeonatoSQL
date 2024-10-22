@@ -17,7 +17,7 @@
 * Essas etapas serão realizadas durante as aulas de Banco de Dados, nas aulas práticas de Laboratório de Informática.
 * Serão considerados alguns critérios de avaliação como: cumprimento de todas as etapas completas, qualidade de implementação e documentação e participação dos integrantes.
 * Cada turma terá os 1ºs, 2ºs e 3ºs lugares ganhadores, com direito a premiação (medalha) para todos os integrantes dos grupos.
-* Os 1ºs lugares de cada turma, vai para a etapa seguinte.
+* Os 1ºs lugares de cada turma, vão para a etapa seguinte.
 
 ### Fase 2: Competição interclasse
 * Nesta etapa, irão participar apenas 4 grupos, ou seja, os 1ºs colocados de cada turma da Fase 1 da competição.
