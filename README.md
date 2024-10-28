@@ -87,8 +87,10 @@
 
 10) Selecione todos os produtos com cor preta.
 
-EXTRA) Estamos na época de Black Friday. Suponha que a empresa está aplicando descontos em seus produtos. Gere uma atualização na tabela produto, aplicando 10% de desconto em produtos acima de 100 reais, 20% de desconto em produtos acima de 200 reais e 30% de desconto em produtos acima de 300 reais.
+**Desafio: As duas questões a seguir valem ponto extra no trabalho.**
 
-EXTRA) Selecione a quantidade produzida de cada pedido. A consulta deve trazer o código do pedido, a quantidade produzida e o nome do produto.
+**EXTRA)** Estamos na época de Black Friday. Suponha que a empresa está aplicando descontos em seus produtos. Gere uma atualização na tabela produto, aplicando 10% de desconto em produtos acima de 100 reais, 20% de desconto em produtos acima de 200 reais e 30% de desconto em produtos acima de 300 reais.
+
+**EXTRA)** Selecione a quantidade produzida de cada pedido. A consulta deve trazer o código do pedido, a quantidade produzida e o nome do produto.
 
 
