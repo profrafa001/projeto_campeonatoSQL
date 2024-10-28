@@ -56,7 +56,7 @@
 
 # ETAPA 3 - Refinamento
 * Agora você vai precisar popular ainda mais o seu banco de dados para ir para a etapa 4.
-* Insira de 500 a 1000 linhas de dados em cada tabela (PERGUNTE-ME COMO 😜🔮)
+* Insira de 500 linhas de dados em cada tabela (PERGUNTE-ME COMO 😜🔮)
 
 # ETAPA 4 - Consulta ao Banco de Dados
 * Aqui estarão as principais consultas SQL, após a criação do banco de dados.
