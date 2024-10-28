@@ -64,9 +64,30 @@
 * Abaixo estão listados, em tópicos, as consultas a serem feitas.
 * Incluir, para cada tópico, as instruções SQL utilizadas e as imagens (print da tela) mostrando os resultados.
 
-## Consultas
+## Consultas e atualizações
 
-### Selecione 
+1) Atualize a tabela de matéria prima, aumentando em 10 unidades todos os produtos que são poliamida.
 
- 
- 
+2) Gere uma atualização na tabela produto, aplicando 10% de desconto em produtos acima de 150 reais aplicando 10% acima de 150 reais.
+
+3) Apague da tabela pedidos todos os registros que tem dinheiro como forma de pagamento.
+
+4) Selecione a quantidade produzida de cada pedido. A consulta deve trazer o código do pedido e quantidade produzida.
+
+5) Selecione as matérias primas com quantidade em estoque menor que 100 unidades.
+
+6) Selecione os pedidos feitos após o dia 01/05/2024.
+
+7) Selecione quantidade em estoque de cada produto.
+
+8) Selecione os pedidos dos clientes.
+
+9) Selecione os clientes que efetuaram pedidos antes do ano de 2024.
+
+10) Selecione todos os produtos com cor preta.
+
+EXTRA) Estamos na época de Black Friday. Suponha que a empresa está aplicando descontos em seus produtos. Gere uma atualização na tabela produto, aplicando 10% de desconto em produtos acima de 100 reais, 20% de desconto em produtos acima de 200 reais e 30% de desconto em produtos acima de 300 reais.
+
+EXTRA) Selecione a quantidade produzida de cada pedido. A consulta deve trazer o código do pedido, a quantidade produzida e o nome do produto.
+
+
