@@ -58,11 +58,12 @@
 * Agora você vai precisar popular ainda mais o seu banco de dados para ir para a etapa 4.
 * Insira de 500 linhas de dados em cada tabela (PERGUNTE-ME COMO 😜🔮)
 
-# ETAPA 4 - Consulta ao Banco de Dados
+# ETAPA 4 - Consulta e atualização do Banco de Dados
 * Aqui estarão as principais consultas SQL, após a criação do banco de dados.
 * Você deverá fazer algumas consultas estratégicas no banco de dados que você criou.
-* Abaixo estão listados, em tópicos, as consultas a serem feitas.
+* Abaixo estão listados, em tópicos, as consultas e atualizações a serem a serem feitas no banco.
 * Incluir, para cada tópico, as instruções SQL utilizadas e as imagens (print da tela) mostrando os resultados.
+* Limitar as saídas das consultas a 5 registros (5 linhas).
 
 ## Consultas e atualizações
 
