@@ -27,6 +27,10 @@
 * Serão considerados alguns critérios de avaliação como: cumprimento da etapa completa, utilização do tempo disponibilizado, qualidade de implementação e participação dos integrantes.
 * A competição terá os 1ºs, 2ºs e 3ºs lugeres (com premiação a definir).
 
+# Grupos Participantes 
+
+[Grupos.xlsx](https://github.com/user-attachments/files/17549939/Grupos.xlsx)
+
 # Integrantes do Grupo
 1) 
 2) 
@@ -39,31 +43,28 @@
   
 ![modelo logico](https://github.com/user-attachments/assets/a027b355-aa7e-44de-861a-3fad13985b6c)
 
-# ETAPA 1 - Criação do Banco de Dados
-* Analise o Modelo Lógico e crie o banco de dados (CREATE E INSERT).
-* Crie todas as tabelas do modelo lógico (CREATE) usando os tipos de dados adequados.
+# ETAPA 1 - Criação das Tabelas do Banco de Dados
+* Analise o Modelo Lógico e crie as tabelas do banco de dados (CREATE).
+* Crie todas as tabelas do modelo lógico usando os tipos de dados adequados.
+* Utilize a ferramenta a seguir para esta tarefa: https://sqliteonline.com/
+* Você deve anexar o arquivo do seu projeto de banco de dados (create.sql) neste GitHub a cada atualização contendo os CREATE.
+
+# ETAPA 2 - Inserção de Dados
 * Insira no mínimo 20 linhas de dados em cada tabela (INSERT).
 * Utilize a ferramenta a seguir para esta tarefa: https://sqliteonline.com/
-* Você deve anexar o arquivo do seu projeto de banco de dados (arquivo.sql) neste GitHub a cada atualização contendo os CREATE e INSERT.
-
-# ETAPA 2 - Documentação do Banco de Dados
-* Após a criação do banco de dados, deve ser feita a documentação.
-* Crie o dicionário de dados, detalhando todos os atributos de cada tabela, tipo de dado utilizado e descrição dos dados.
-  
-## Dicionário de dados
-* Baixe a planilha a seguir e preencha as tabelas do dicionários de dados e anexe o arquivo preenchido neste GitHub.
-* [Planilha - Dicionário de Dados](https://github.com/user-attachments/files/17386482/Dicionario.de.Dados.xlsx)
+* Você deve anexar o arquivo do seu projeto de banco de dados (insert.sql) neste GitHub a cada atualização contendo os INSERT.
 
 # ETAPA 3 - Refinamento
 * Agora você vai precisar popular ainda mais o seu banco de dados para ir para a etapa 4.
-* Insira de 500 linhas de dados em cada tabela (PERGUNTE-ME COMO 😜🔮)
+* Insira de 500 linhas de dados em cada tabela.
+* Para isso, você vai precisar de uma ajudinha: https://colab.research.google.com/drive/15Fxrt_4qO0tlXCjFF7VTP-gnYAZ6Cltc?usp=sharing
 
 # ETAPA 4 - Consulta e atualização do Banco de Dados
-* Aqui estarão as principais consultas SQL, após a criação do banco de dados.
+* Aqui estarão as principais consultas SQL, após a criação das tabelas no banco de dados e inserção dos dados.
 * Você deverá fazer algumas consultas estratégicas no banco de dados que você criou.
-* Abaixo estão listados, em tópicos, as consultas e atualizações a serem a serem feitas no banco.
-* Incluir, para cada tópico, as instruções SQL utilizadas e as imagens (print da tela) mostrando os resultados.
-* Limitar as saídas das consultas a 5 registros (5 linhas).
+* Abaixo estão listadas, em tópicos, as consultas e atualizações a serem feitas no banco.
+* Para cada tópico, é necessário incluir as instruções SQL utilizadas para fazee a consulta e as imagens (print da tela) mostrando os resultados gerados.
+* Para as consultas, limitar as saídas a 5 registros (5 linhas) de dados.
 
 ## Consultas e atualizações
 
@@ -92,5 +93,14 @@
 **EXTRA)** Estamos na época de Black Friday. Suponha que a empresa está aplicando descontos em seus produtos. Gere uma atualização na tabela produto, aplicando 10% de desconto em produtos acima de 100 reais, 20% de desconto em produtos acima de 200 reais e 30% de desconto em produtos acima de 300 reais.
 
 **EXTRA)** Selecione a quantidade produzida de cada pedido. A consulta deve trazer o código do pedido, a quantidade produzida e o nome do produto.
+
+# ETAPA EXTRA - Documentação do Banco de Dados
+* Esta etapa não será obrigatória, mas se for feita, valerá ponto extra na disciplina.
+* Após a criação do banco de dados, deve ser feita a documentação.
+* Crie o dicionário de dados, detalhando todos os atributos de cada tabela, tipo de dado utilizado e descrição dos dados.
+  
+## Dicionário de dados
+* Baixe a planilha a seguir e preencha as tabelas do dicionários de dados e anexe o arquivo preenchido neste GitHub.
+* [Planilha - Dicionário de Dados](https://github.com/user-attachments/files/17386482/Dicionario.de.Dados.xlsx)
 
 
