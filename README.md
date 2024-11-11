@@ -51,6 +51,9 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 * Utilize a ferramenta a seguir para esta tarefa: https://sqliteonline.com/
 * Você deve anexar o arquivo do seu projeto de banco de dados (create.sql) neste GitHub a cada atualização contendo os CREATE.
 
+
+[SQL.zip](https://github.com/user-attachments/files/17706782/SQL.zip)
+
 # ETAPA 2 - Inserção de Dados (ATÉ 22/11/2024)
 * Insira no mínimo 20 linhas de dados em cada tabela (INSERT).
 * Utilize a ferramenta a seguir para esta tarefa: https://sqliteonline.com/
