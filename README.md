@@ -50,8 +50,6 @@ Na planilha abaixo é possível visualizar a divisão de grupos por turma.
 * Crie todas as tabelas do modelo lógico usando os tipos de dados adequados.
 * Utilize a ferramenta a seguir para esta tarefa: https://sqliteonline.com/
 * Você deve anexar o arquivo do seu projeto de banco de dados (create.sql) neste GitHub a cada atualização contendo os CREATE.
-[trabalho parte 1.zip](https://github.com/user-attachments/files/17707807/trabalho.parte.1.zip)
-[trabalho bd.zip](https://github.com/user-attachments/files/17708118/trabalho.bd.zip)
 
 # ETAPA 2 - Inserção de Dados (ATÉ 22/11/2024)
 * Insira no mínimo 20 linhas de dados em cada tabela (INSERT).
